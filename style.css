@@ -23,3 +23,12 @@
 .movie_text span{
     color: orange;
 }
+.book{
+    margin-bottom: 20px;
+}
+.book hr{
+    margin-bottom: 10px;
+}
+#contact iframe{
+width: 100%;
+}
